@@ -16,7 +16,6 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   int NilaiApi=digitalRead(api);
   int NilaiAsap=analogRead(asap);
   Serial.print("Nilai Api:");
