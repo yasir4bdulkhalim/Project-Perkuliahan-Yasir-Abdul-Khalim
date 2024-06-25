@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/acer/Downloads/UASDSD/UASDSD/UASDSD.sim/sim_1/behav/xsim/glbl.v,1704968913,verilog,,,,glbl,,,,,,,,
+C:/Users/acer/Downloads/UASDSD/UASDSD/UASDSD.srcs/sim_1/new/AD16.v,1704968914,verilog,,C:/Users/acer/Downloads/UASDSD/UASDSD/UASDSD.srcs/sim_1/new/AD8.v,,AD16,,,,,,,,
+C:/Users/acer/Downloads/UASDSD/UASDSD/UASDSD.srcs/sim_1/new/AD8.v,1704968914,verilog,,C:/Users/acer/Downloads/UASDSD/UASDSD/UASDSD.srcs/sim_1/new/FA.v,,AD8,,,,,,,,
+C:/Users/acer/Downloads/UASDSD/UASDSD/UASDSD.srcs/sim_1/new/FA.v,1704968914,verilog,,C:/Users/acer/Downloads/UASDSD/UASDSD/UASDSD.srcs/sim_1/new/HA.v,,FA,,,,,,,,
+C:/Users/acer/Downloads/UASDSD/UASDSD/UASDSD.srcs/sim_1/new/HA.v,1704968914,verilog,,C:/Users/acer/Downloads/UASDSD/UASDSD/UASDSD.srcs/sim_1/new/MX.v,,HA,,,,,,,,
+C:/Users/acer/Downloads/UASDSD/UASDSD/UASDSD.srcs/sim_1/new/MTX.v,1704968914,verilog,,,,MTX,,,,,,,,
+C:/Users/acer/Downloads/UASDSD/UASDSD/UASDSD.srcs/sim_1/new/MX.v,1704968914,verilog,,C:/Users/acer/Downloads/UASDSD/UASDSD/UASDSD.srcs/sim_1/new/MTX.v,,MX,,,,,,,,

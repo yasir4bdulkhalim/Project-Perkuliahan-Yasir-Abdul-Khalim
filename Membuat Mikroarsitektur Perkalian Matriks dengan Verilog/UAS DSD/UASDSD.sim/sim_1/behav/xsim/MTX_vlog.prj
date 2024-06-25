@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../UASDSD.srcs/sim_1/new/AD16.v" \
+"../../../../UASDSD.srcs/sim_1/new/AD8.v" \
+"../../../../UASDSD.srcs/sim_1/new/FA.v" \
+"../../../../UASDSD.srcs/sim_1/new/HA.v" \
+"../../../../UASDSD.srcs/sim_1/new/MX.v" \
+"../../../../UASDSD.srcs/sim_1/new/MTX.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
